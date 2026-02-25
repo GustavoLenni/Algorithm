@@ -1,3 +1,5 @@
+package Ordenation;
+
 public class BubbleSort {
     public static void main(String[] args){
         int [] arr = {9,2,3,12,1,10};
