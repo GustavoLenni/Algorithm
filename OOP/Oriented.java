@@ -8,8 +8,8 @@ public class Oriented {
         //System.out.println(car);
 
         //inheritance
-        Dog dog = new Dog();
-        dog.Sound();
+//        Animal dog = new Dog();
+//        dog.shitting();
 
 
 
